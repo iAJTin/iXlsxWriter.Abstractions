@@ -1,0 +1,19 @@
+﻿# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [1.0.0] - 2023-07-09
+
+### Added
+
+ - Create project and first commit
+
+ - Library versions for this version
+  
+	| Library | Version | Description |
+	|:------|:------|:----------|
+	| iTin.Core | 2.0.0.7 | Base library containing various extensions, helpers, common constants |
+	| iTin.Logging | 1.0.0.3 | Logging library |
+
+
+[1.0.0]: https://github.com/iAJTin/iXlsxWriter.Abstractions/releases/tag/v1.0.0
