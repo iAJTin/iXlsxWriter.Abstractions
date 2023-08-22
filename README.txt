@@ -4,8 +4,18 @@ What is iXlsxWriter.Abstractions?
 
 iXlsxWriter.Abstractions contains interfaces and generic classes for create iXlsxWriter writer extensions.
 
-Changes in this version (v1.0.0)
+Changes in this version (v1.0.1)
 ================================
+
+· Changed
+  -------
+
+  - Minor changes
+
+  - Multiple Repository is used.
+
+v1.0.0
+======
 
 · Added
   -----
