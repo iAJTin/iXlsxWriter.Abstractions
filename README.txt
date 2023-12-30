@@ -4,8 +4,20 @@ What is iXlsxWriter.Abstractions?
 
 iXlsxWriter.Abstractions contains interfaces and generic classes for create iXlsxWriter writer extensions.
 
-Changes in this version (v1.0.1)
+Changes in this version (v1.0.2)
 ================================
+
+· Changed
+  -------
+
+    •———————————————————————————————————————————————————————————————————————————————————————————————•
+    | Library       Version   Description                                                           |
+    •———————————————————————————————————————————————————————————————————————————————————————————————•
+    | iTin.Core     2.0.0.7   Base library containing various extensions, helpers, common constants |
+    •———————————————————————————————————————————————————————————————————————————————————————————————•
+
+v1.0.1
+======
 
 · Changed
   -------
